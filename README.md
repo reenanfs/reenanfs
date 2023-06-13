@@ -1,16 +1,14 @@
-### Hi there 👋
+Passionate Software Developer | Tech Enthusiast
 
-<!--
-**reenanfs/reenanfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Renan, a software developer on a quest to explore and innovate in the tech world.
 
-Here are some ideas to get you started:
+🚀 Years of experience and continuously expanding my skills. Currently my main focus are Typescript/Javascript and Python. I also have knowledge in Java and VBA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Crafting elegant solutions to complex problems is my passion. I explore the realms of web development, automation and cloud computing to broaden my expertise.
+
+📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-ferreira-de-santana/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.frsantana@gmail.com)
+
+Happy coding! 🚀
