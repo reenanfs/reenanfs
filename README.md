@@ -1,4 +1,4 @@
-Passionate Software Developer | Tech Enthusiast
+# Software Developer | Tech Enthusiast
 
 👋 Hello, I'm Renan, a software developer on a quest to explore and innovate in the tech world.
 
