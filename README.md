@@ -1,6 +1,6 @@
-# Software Developer | Tech Enthusiast
+# Fullstack Developer | Tech Enthusiast
 
-👋 Hello, I'm Renan, a fullstack developer on a quest to explore and innovate in the tech world.
+👋 Hello, I'm Renan, a developer familiar with both frontend and backend technologies. I am currently on a quest to explore and innovate in the tech world.
 
 🌟 The programming languages I have experience with are: Typescript/Javascript, Python, Java and VBA.
 
