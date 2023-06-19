@@ -1,10 +1,12 @@
 # Software Developer | Tech Enthusiast
 
-👋 Hello, I'm Renan, a software developer on a quest to explore and innovate in the tech world.
+👋 Hello, I'm Renan, a fullstack developer on a quest to explore and innovate in the tech world.
 
-🚀 Years of experience and continuously expanding my skills. Currently my main focus are Typescript/Javascript and Python. I also have knowledge in Java and VBA.
+🌟 The programming languages I have experience with are: Typescript/Javascript, Python, Java and VBA.
 
-💻 Crafting elegant solutions to complex problems is my passion. I explore the realms of web development, automation and cloud computing to broaden my expertise.
+💻 I explore the realms of web development , automation and cloud computing.
+
+🚀 Continuously expanding my skills. 
 
 📫 Connect with me:
 
