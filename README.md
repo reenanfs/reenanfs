@@ -4,7 +4,7 @@
 
 🌟 The programming languages I have experience with are: Typescript/Javascript, Python, Java and VBA.
 
-💻 I explore the realms of web development , automation and cloud computing.
+💻 I explore the realms of web development, automation and cloud computing.
 
 🚀 Continuously expanding my skills. 
 
